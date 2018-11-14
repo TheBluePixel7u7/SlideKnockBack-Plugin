@@ -1,0 +1,5 @@
+name: SlideKnockBack
+main: SlideNetwork\Central
+api: [2.0.0, 2.1.0, 3.0.0]
+version: 5.0-Alpha
+author: DWIFULOVE, SlidePlugins

@@ -1,0 +1,22 @@
+---
+#SlideKnockback Plugin by @SlideNetworkPE.
+# Activate/Deactivate Combo Mode (NoDelay on hits trick)
+combo-mode: true
+
+#Make your custom kb on numbers
+custom-number-kb: true
+kb-number: 0.2
+
+#Make your custom kb with motion (more customizable)
+custom-motion-kb: false
+kb-motion-Y: 1.1
+kb-motion-Z: 1.1
+
+# Allowed worlds (World on, combo-mode and kb will found)
+world:
+- combo
+- combo-2
+- gapple-ffa
+- lobby
+#Defaults (soon)
+...

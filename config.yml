@@ -1,0 +1,17 @@
+---
+#SlideKnockback Plugin by @SlideNetworkPE.
+custom-number-kb: true
+kb-number: 1.0
+#
+custom-motion-kb: false
+kb-motion-Y: 1.1
+kb-motion-Z: 1.1
+
+# Allowed worlds
+world:
+- combo
+- combo-2
+- gapple-ffa
+- lobby
+#Defaults (soon)
+...
